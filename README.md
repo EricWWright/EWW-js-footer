@@ -11,7 +11,7 @@ npm install --save eww-js-footer
 Add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } from EWW-js-footer;
+import { footer } from eww-js-footer;
 
 footer('Some Name');
 ```
