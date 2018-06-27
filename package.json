@@ -1,6 +1,6 @@
 {
   "name": "eww-js-footer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/EricWWright/EWW-js-footer#readme",
   "dependencies": {
     "moment": "^2.22.2"
-  }
+  },
+  "devDependencies": {}
 }
